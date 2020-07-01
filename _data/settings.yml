@@ -1,6 +1,7 @@
 basic_settings:
   site_title: The Feldman Lab
-  site_tagline: Department of Biology \nStanford University
+  site_tagline: Department of Biology
+  Stanford University
   favicon_image: /images/favicon.png
 
 header_settings:
