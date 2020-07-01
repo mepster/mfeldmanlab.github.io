@@ -20,10 +20,10 @@ menu_settings:
       url: '/collaborators/'
     - title: 'Staff'
       url: '/staff/'
-    - title: 'Recent Publications'
+    - title: 'Publications'
       url: '/publications/'
-    - title: 'About'
-      url: '/about'
+#    - title: 'About'
+#      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
