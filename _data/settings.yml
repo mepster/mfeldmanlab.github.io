@@ -1,6 +1,6 @@
 basic_settings:
   site_title: The Feldman Lab
-  site_tagline: Welcome to the home page of Marc Feldman's lab in the Department ofBiology at Stanford University. Our group uses mathematical and computer modeling techniques to study problems in evolutionary biology.
+  site_tagline: Department of Biology, Stanford University
   favicon_image: /images/favicon.png
 
 header_settings:
