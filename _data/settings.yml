@@ -20,7 +20,6 @@ menu_settings:
       url: '/collaborators/'
     - title: 'Staff'
       url: '/staff/'
-    - title: 'About'
     - title: 'Recent Publications'
       url: '/publications/'
     - title: 'About'
