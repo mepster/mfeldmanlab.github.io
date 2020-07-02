@@ -15,7 +15,7 @@ menu_settings:
 #    - title: 'Projects'
 #      url: '/projects/'
     - title: 'Students'
-      url: '/students/'
+      url: '/students'
     - title: 'Collaborators'
       url: '/collaborators/'
     - title: 'Staff'
