@@ -1,8 +1,8 @@
 ---
-title: Students
-description: Here they are
-subtitle: They're awesome
-featured_image: /images/social.jpg
+title:
+description:
+subtitle: Hello :)
+featured_image:
 ---
 
 ![](/images/demo/demo-landscape.jpg)
