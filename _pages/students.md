@@ -5,7 +5,7 @@ subtitle: Hello :)
 featured_image:
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/lab2.jpg)
 
 ## Features
 
