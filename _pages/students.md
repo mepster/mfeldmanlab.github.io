@@ -1,5 +1,5 @@
 ---
-title:
+title: Current Students
 description:
 subtitle: Hello :)
 featured_image: '/images/sf.jpg'
