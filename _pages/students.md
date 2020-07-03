@@ -1,7 +1,7 @@
 ---
 title: Current Students
 description:
-subtitle: 👨🏻‍💻👩🏼‍💻👩🏼‍💻🧑🏻‍💻
+subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻‍💻🌿
 featured_image: '/images/sf.jpg'
 ---
 
