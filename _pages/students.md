@@ -2,7 +2,7 @@
 title:
 description:
 subtitle: Hello :)
-featured_image: /images/sf.jpg
+featured_image: '/images/sf.jpg'
 ---
 
 ## Features
