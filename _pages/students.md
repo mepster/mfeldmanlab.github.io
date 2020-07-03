@@ -5,14 +5,12 @@ subtitle: Hello :)
 featured_image: '/images/sf.jpg'
 ---
 
-```html
 <div class="gallery" data-columns="3">
-    <img src="/images/sf.jpg">
-    <img src="/images/demo/hoover.jpg">
-    <img src="/images/demo/lab2.jpg">
-    <img src="/images/demo/passiflora.jpg">
+	<img src="/images/sf.jpg">
+	<img src="/images/hoover.jpg">
+	<img src="/images/lab2.jpg">
+	<img src="/images/passiflora.jpg">
 </div>
-```
 
 ## Features
 
