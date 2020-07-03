@@ -5,7 +5,7 @@ subtitle: Hello :)
 featured_image:
 ---
 
-![](/images/lab2.jpg)
+![](/images/lab1.jpg)
 
 ## Features
 
