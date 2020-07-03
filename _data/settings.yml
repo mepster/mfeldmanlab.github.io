@@ -19,7 +19,7 @@ menu_settings:
     - title: 'Collaborators'
       url: '/collaborators'
     - title: 'Staff'
-      url: '/staff/'
+      url: '/staff'
     - title: 'Publications'
       url: '/publications/'
 #    - title: 'About'
