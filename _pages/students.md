@@ -5,6 +5,8 @@ subtitle: Hello :)
 featured_image: '/images/sf.jpg'
 ---
 
+![](/images/sf.jpg)
+
 ## Features
 
 Simples is packed with powerful features to showcase your content:
