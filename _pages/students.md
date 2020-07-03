@@ -2,10 +2,8 @@
 title:
 description:
 subtitle: Hello :)
-featured_image:
+featured_image: /images/sf.jpg
 ---
-
-![](/images/sf.jpg)
 
 ## Features
 
