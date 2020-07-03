@@ -9,7 +9,6 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
 	<img src="/images/lab2.jpg">
-	<img src="/images/passiflora.jpg">
 </div>
 
 ## Features
