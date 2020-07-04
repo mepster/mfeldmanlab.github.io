@@ -8,5 +8,5 @@ featured_image:
 ![](/images/larry.jpg)
 
 <p align="center">
-  <a href="bond@stanford.edu">Email</a>
+  bond@stanford.edu
 </p>
