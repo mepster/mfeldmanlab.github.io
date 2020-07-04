@@ -12,21 +12,17 @@ featured_image: '/images/sf.jpg'
 </div>
 
 ## Hao Shen
-# 3rd year
 
 ---
 
 ## Kaleda Denton
-# 2nd year
 
 ---
 
 ## Talia Borofsky
-# 2nd year
 
 ---
 
 ## Javier Blanco Portillo
-# 1st year
 
 ---
