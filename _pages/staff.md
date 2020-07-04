@@ -7,4 +7,4 @@ featured_image:
 
 ![](/images/larry.jpg)
 
-lbond@stanford.edu
+-> lbond@stanford.edu <-
