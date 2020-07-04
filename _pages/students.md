@@ -1,5 +1,5 @@
 ---
-title: Current Students
+title: Current PhD Students
 description:
 subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻‍💻🌿
 featured_image: '/images/sf.jpg'
