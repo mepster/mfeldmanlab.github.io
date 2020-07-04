@@ -5,14 +5,9 @@ subtitle:
 featured_image:
 ---
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Cultural evolution of conformity and anti-conformity. Denton, K. K., Y. Ram, U. Liberman, and M. W. Feldman. PNAS (2020) <a href="doi:10.1073/pnas.2004102117">
 
-Cultural evolution of conformity and anti-conformity
-Denton, K. K., Y. Ram, U. Liberman, and M. W. Feldman
-PNAS      (2020)
-doi:10.1073/pnas.2004102117
+
 L. Luca Cavalli-Sforza: A renaissance scientist
 M. W. Feldman
 Theoretical Population Biology  133:  75-79  (2020)
