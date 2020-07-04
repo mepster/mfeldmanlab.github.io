@@ -5,7 +5,9 @@ subtitle:
 featured_image:
 ---
 
-
+* Simple bulleted lists
+* Like this one
+* Are cool
 
 Cultural evolution of conformity and anti-conformity
 Denton, K. K., Y. Ram, U. Liberman, and M. W. Feldman

@@ -13,8 +13,16 @@ featured_image: '/images/sf.jpg'
 
 ## Hao
 
+---
+
 ## Kayla
+
+---
 
 ## Talia
 
+---
+
 ## Javier
+
+---
