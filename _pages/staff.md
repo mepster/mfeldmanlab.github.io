@@ -1,11 +1,9 @@
 ---
-title: Staff
+title: Larry Bond
 description:
 subtitle:
 featured_image:
 ---
-
-## Larry Bond
 
 ![](/images/larry.jpg)
 
