@@ -11,18 +11,18 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/lab2.jpg">
 </div>
 
-## Hao
+## Hao (3rd year)
 
 ---
 
-## Kayla
+## Kayla (2nd year)
 
 ---
 
-## Talia
+## Talia (2nd year)
 
 ---
 
-## Javier
+## Javier (1st year)
 
 ---
