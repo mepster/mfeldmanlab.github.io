@@ -21,7 +21,7 @@ menu_settings:
     - title: 'Staff'
       url: '/staff'
     - title: 'Publications'
-      url: '/publications/'
+      url: '/publications'
 #    - title: 'About'
 #      url: '/about'
     - title: 'Contact'
