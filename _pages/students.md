@@ -11,18 +11,18 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/lab2.jpg">
 </div>
 
-## Hao (3rd year)
+## Hao Shen (3rd year)
 
 ---
 
-## Kayla (2nd year)
+## Kaleda Denton (2nd year)
 
 ---
 
-## Talia (2nd year)
+## Talia Borofsky (2nd year)
 
 ---
 
-## Javier (1st year)
+## Javier Blanco Portillo (1st year)
 
 ---
