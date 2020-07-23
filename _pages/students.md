@@ -21,12 +21,12 @@ featured_image: '/images/sf.jpg'
 
 ## Talia Borofsky
 
-![](/images/talia.jpeg)
+<!--![](/images/talia.jpeg)-->
 
 ---
 
 ## Javier Blanco Portillo
 
-![](/images/javier.jpeg)
+<!--![](/images/javier.jpeg)-->
 
 ---
