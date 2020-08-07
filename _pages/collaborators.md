@@ -5,7 +5,7 @@ subtitle:
 featured_image:
 ---
 
-![](/images/plants.jpg)
+<img width="600" alt="kayla" src="/images/plants.JPG">
 
 |-------|-------|
 | Lee Altenberg| Tal Lavi |
