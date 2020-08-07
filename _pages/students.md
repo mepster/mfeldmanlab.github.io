@@ -18,6 +18,7 @@ featured_image: '/images/sf.jpg'
 ---
 
 ## Kaleda Denton
+##### [Twitter](https://twitter.com/KaledaDenton)
 
 I am a second-year PhD student in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
 
