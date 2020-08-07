@@ -13,6 +13,8 @@ featured_image: '/images/sf.jpg'
 
 ## Hao Shen
 
+<img width="300" alt="kayla" src="/images/hao.JPG">
+
 ---
 
 ## Kaleda Denton
@@ -30,6 +32,12 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 ---
 
 ## Javier Blanco Portillo
+
+Javier graduated from the Undergraduate Program in Genomic Sciences at UNAM, and from the Integrative Biology Masters program at LANGEBIO, Cinvestav, 
+
+
+Here, he joined the Moreno Lab 
+
 
 <img width="300" alt="kayla" src="/images/javier.jpeg">
 
