@@ -27,6 +27,7 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 ---
 
 ## Talia Borofsky
+##### [Twitter](https://twitter.com/taliaborofsky)
 
 <img width="300" alt="kayla" src="/images/talia.jpeg">
 
