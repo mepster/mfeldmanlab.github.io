@@ -25,12 +25,12 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 
 ## Talia Borofsky
 
-<!--![](/images/talia.jpeg)-->
+<img width="300" alt="kayla" src="/images/talia.jpeg">
 
 ---
 
 ## Javier Blanco Portillo
 
-<!--![](/images/javier.jpeg)-->
+<img width="300" alt="kayla" src="/images/javier.jpeg">
 
 ---
