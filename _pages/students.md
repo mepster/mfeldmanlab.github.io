@@ -31,9 +31,10 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 
 ---
 
-## Javier Blanco Portillo
+## Javier Blanco Portillo | 
+# <a href=https://twitter.com/JavierBioBlanco>Twitter</a> | <a href=https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra>Google Scholar</a>
 
-Javier graduated from the Undergraduate Program in Genomic Sciences at UNAM, and from the Integrative Biology Masters program at LANGEBIO, Cinvestav, 
+Javier graduated from the Undergraduate Program in Genomic Sciences at UNAM, and from the Integrative Biology Masters program at LANGEBIO, Cinvestav. 
 
 
 Here, he joined the Moreno Lab 
