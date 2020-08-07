@@ -35,7 +35,7 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 ## Javier Blanco Portillo
 ##### [Twitter](https://twitter.com/JavierBioBlanco) | [Google Scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
-Javier graduated from the Undergraduate Program in Genomic Sciences at UNAM in 2016, and from the Integrative Biology Masters program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab]s(www.morenolab.org) to work on answering historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
+Javier graduated from the Undergraduate Program in Genomic Sciences at UNAM in 2016, and from the Integrative Biology Masters program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](www.morenolab.org) to work on answering historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
 
 <img width="300" alt="kayla" src="/images/javier.jpeg">
 
