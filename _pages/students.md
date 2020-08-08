@@ -38,7 +38,7 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 
 Javier graduated from the Undergraduate [Program in Genomic Sciences](https://twitter.com/lcgunam?lang=en) at UNAM in 2016, and from the [Integrative Biology Masters](https://langebio.cinvestav.mx/en/) program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](https://www.morenolab.org) to answer historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
 
-At the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex disease.
+As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex disease.
 
 <img width="300" alt="kayla" src="/images/javier.jpeg">
 
