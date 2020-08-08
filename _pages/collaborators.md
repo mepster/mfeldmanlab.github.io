@@ -5,7 +5,7 @@ subtitle:
 featured_image:
 ---
 
-<img width="600" alt="plants" src="/images/plants.jpg">
+<img width="700" alt="plants" src="/images/plants.jpg">
 
 |-------|-------|
 | Lee Altenberg| Tal Lavi |
