@@ -20,6 +20,15 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 
 ---
 
+## Talia Borofsky
+##### [Twitter](https://twitter.com/taliaborofsky) | [Personal Website](https://www.taliaborofsky.com)
+
+Talia joined the Feldman lab in 2019. Her research focuses on the evolution of large group size in hominids and multilevel societies in early humans. She graduated from Swarthmore College with a double major in Math and Biology. At Swarthmore, she researched Honey Bee dance communication and collective decision-making.
+
+<img width="300" alt="kayla" src="/images/talia.jpeg">
+
+---s
+
 ## Javier Blanco Portillo
 ##### [Twitter](https://twitter.com/JavierBioBlanco) | [Google Scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
@@ -34,12 +43,5 @@ As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that c
 ## Hao Shen
 
 <img width="300" alt="kayla" src="/images/hao.JPG">
-
----
-
-## Talia Borofsky
-##### [Twitter](https://twitter.com/taliaborofsky) | [Personal Website](https://www.taliaborofsky.com)
-
-<img width="300" alt="kayla" src="/images/talia.jpeg">
 
 ---
