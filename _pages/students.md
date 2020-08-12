@@ -27,7 +27,7 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 
 Talia joined the Feldman lab in 2019. Her research focuses on the evolution of large group size in hominids and multilevel societies in early humans. She graduated from Swarthmore College with a double major in Math and Biology. At Swarthmore, she researched Honey Bee dance communication and collective decision-making.
 
-<img width="300" alt="kayla" src="/images/talia.jpeg">
+<img width="250" alt="kayla" src="/images/talia.jpeg">
 
 ---
 
