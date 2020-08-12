@@ -11,6 +11,8 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/lab2.jpg">
 </div>
 
+---
+
 ## Kaleda Denton
 ##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
@@ -27,7 +29,7 @@ Talia joined the Feldman lab in 2019. Her research focuses on the evolution of l
 
 <img width="300" alt="kayla" src="/images/talia.jpeg">
 
----s
+---
 
 ## Javier Blanco Portillo
 ##### [Twitter](https://twitter.com/JavierBioBlanco) | [Google Scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
