@@ -11,25 +11,12 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/lab2.jpg">
 </div>
 
-## Hao Shen
-
-<img width="300" alt="kayla" src="/images/hao.JPG">
-
----
-
 ## Kaleda Denton
 ##### [Twitter](https://twitter.com/KaledaDenton)
 
 I am a second-year PhD student in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
 
 <img width="300" alt="kayla" src="/images/kayla.jpg">
-
----
-
-## Talia Borofsky
-##### [Twitter](https://twitter.com/taliaborofsky) | [Personal Website](https://www.taliaborofsky.com)
-
-<img width="300" alt="kayla" src="/images/talia.jpeg">
 
 ---
 
@@ -41,5 +28,18 @@ Javier graduated from the Undergraduate [Program in Genomic Sciences](https://tw
 As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex disease.
 
 <img width="300" alt="kayla" src="/images/javier.jpeg">
+
+---
+
+## Hao Shen
+
+<img width="300" alt="kayla" src="/images/hao.JPG">
+
+---
+
+## Talia Borofsky
+##### [Twitter](https://twitter.com/taliaborofsky) | [Personal Website](https://www.taliaborofsky.com)
+
+<img width="300" alt="kayla" src="/images/talia.jpeg">
 
 ---
