@@ -23,7 +23,7 @@ I am a second-year PhD student in the Feldman lab. My research focuses on the cu
 ---
 
 ## Talia Borofsky
-##### [Twitter](https://twitter.com/taliaborofsky) | [Personal Website](https://www.taliaborofsky.com)
+##### [Twitter](https://twitter.com/taliaborofsky) | [Homepage](https://www.taliaborofsky.com)
 
 Talia joined the Feldman lab in 2019. Her research focuses on the evolution of large group size in hominids and multilevel societies in early humans. She graduated from Swarthmore College with a double major in Math and Biology. At Swarthmore, she researched Honey Bee dance communication and collective decision-making.
 
