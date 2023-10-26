@@ -5,6 +5,10 @@ subtitle:
 featured_image:
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=DVftIaYAAAAJ&hl=en&oi=sra)
+<br>
+<br>
+
 1: Denton KK, Ram Y, Liberman U, Feldman MW. Cultural evolution of conformity
 and anticonformity. Proc Natl Acad Sci U S A. 2020 Jun 16;117(24):13603-13614.
 doi: 10.1073/pnas.2004102117. Epub 2020 May 27. PMID: 32461360; PMCID:
