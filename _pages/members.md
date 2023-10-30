@@ -55,7 +55,7 @@ I'm a Biology PhD candidate at Stanford University working under the supervision
 • To extend the study of gene-culture coevolution (also known as dual inheritance theory), leveraging high-dimensional datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology.
 • To help understand the evolution of languages, particularly creoles, by borrowing techniques from population genetics.
 
-<img width="300" alt="javier" src="/images/IMG_1679.jpeg">
+<img width="300" alt="javier" src="/images/javier2.jpg">
 
 ---
 
