@@ -5,9 +5,10 @@ subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻�
 featured_image: '/images/sf.jpg'
 ---
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
+	<img src="/images/view.JPG">
 </div>
 
 ## Kaleda Denton
