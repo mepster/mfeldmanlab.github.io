@@ -5,7 +5,7 @@ subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻�
 featured_image: '/images/sf.jpg'
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
 </div>
@@ -19,6 +19,7 @@ May Levin is an undergraduate at Stanford University studying Computer Science w
 
 <img width="300" alt="kayla" src="/images/may.jpeg">
 
+---
 
 ## Kaleda Denton
 ##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
