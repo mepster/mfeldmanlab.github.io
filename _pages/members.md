@@ -5,18 +5,17 @@ subtitle: ✨☭👨‍💻☭👨‍💻☭👩‍💻☭👩‍💻☭👨‍�
 featured_image: '/images/sf.jpg'
 ---
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 	<img src="/images/easterIsland.JPG">
 	<img src="/images/hoover.jpg">
 	<img src="/images/sf.jpg">
-	<img src="/images/bench.JPG">
 </div>
 
 ---
 
 ### Larry Bond | lab administrator
 
-Email me at lbond [at] stanford [dot] edu.
+Email me at lbond <i>[at]</i> stanford <i>[dot]</i> edu.
 
 <img width="300" alt="larry" src="/images/larry.jpg">
 
