@@ -14,7 +14,7 @@ menu_settings:
       url: '/'
 #    - title: 'Projects'
 #      url: '/projects/'
-    - title: 'Lab Members'
+    - title: 'Current Lab Members'
       url: '/members'
     - title: 'Publications'
       url: '/publications'
