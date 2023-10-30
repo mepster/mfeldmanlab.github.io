@@ -31,7 +31,7 @@ I am a postdoc in the Feldman lab. My research focuses on the cultural evolution
 
 ---
 
-### May Levin | undergraduate researcher | research assistant
+### May Levin | undergraduate research assistant
 ##### [personal website](https://maylevin.com)
 
 May Levin is an undergraduate at Stanford University studying Computer Science with a specialization in Biocomputation and AI.
@@ -71,11 +71,11 @@ Mike has also spent time in the tech industry in Silicon Valley in a series of s
 
 ---
 
-## Sven Kasser [visiting phd student]
+## Sven Kasser | visiting phd student
 ##### [Google Scholar](https://scholar.google.com/citations?user=eeKmxkUAAAAJ&hl=en&oi=ao)
 
 ---
 
-## Joshua C. McDonald [visiting phd student]
+## Joshua C. McDonald | visiting phd student
 
 ---
