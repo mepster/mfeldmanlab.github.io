@@ -53,7 +53,7 @@ I'm a 5th year Biology PhD candidate working under the supervision of Prof. Marc
 ### Kaleda Denton | postdoc
 ##### [twitter](https://twitter.com/KaledaDenton) | [google scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
-I am a postdoc in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
+I am a postdoc in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality.
 
 <img width="300" alt="kayla" src="/images/kayla.jpg">
 
