@@ -6,7 +6,7 @@ featured_image: '/images/sf.jpg'
 ---
 
 <div class="gallery" data-columns="4">
-	<img src="/images/sf.jpg">
+	<img src="/images/passiflora.jpg">
 	<img src="/images/hoover.jpg">
 	<img src="/images/view.JPG">
 	<img src="/images/bench.JPG">
