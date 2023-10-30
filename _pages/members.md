@@ -1,7 +1,7 @@
 ---
 title: Current Lab Members
 description:
-subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻‍💻🌿
+subtitle: ✨🍁☭👨🏻‍💻☭🧑🏻‍💻☭👨🏻‍💻☭👩🏼‍💻☭👩🏼‍💻☭🧑🏻‍💻☭🍁✨
 featured_image: '/images/sf.jpg'
 ---
 
@@ -54,7 +54,7 @@ Javier is a 5th year PhD Candidate in the lab. He graduated from the Undergradua
 
 As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex diseases.
 
-<img width="300" alt="javier" src="/images/javier.jpeg">
+<img width="300" alt="javier" src="/images/IMG_1679.jpeg">
 
 ---
 
