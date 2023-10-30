@@ -8,5 +8,5 @@ featured_image:
 ![](/images/larry.jpg)
 
 <p align="center">
-  bond@stanford.edu
+  lbond@stanford.edu
 </p>
