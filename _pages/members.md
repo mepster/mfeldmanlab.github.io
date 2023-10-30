@@ -50,10 +50,7 @@ Elisa is a 1st year PhD Student in the Biology Department.
 ### Javier Blanco Portillo | phd candidate
 ##### [personal website](https://javierbioblanco.github.io) | [google scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
-I'm a Biology PhD candidate at Stanford University working under the supervision of Prof. Marcus Feldman and Prof. Alexander Ioannidis. Funded by Stanford's Interdisciplinary Graduate Fellowship (SIGF), my current interests are:
-• To expand upon our historical analysis of Polynesian settlement patterns (see below), incorporating these insights into precision medicine strategies tailored to admixed minority populations who remain underrepresented in modern genomic databases.
-• To extend the study of gene-culture coevolution (also known as dual inheritance theory), leveraging high-dimensional datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology.
-• To help understand the evolution of languages, particularly creoles, by borrowing techniques from population genetics.
+I'm a Biology PhD candidate at Stanford University working under the supervision of Prof. Marcus Feldman and Prof. Alexander Ioannidis. Funded by Stanford's Interdisciplinary Graduate Fellowship (SIGF), my current interests are [1] to incorporate our analysis of Polynesian settlement patterns into precision medicine strategies tailored to admixed minority populations who remain underrepresented in modern genomic databases; [2] to extend the study of gene-culture coevolution leveraging high-dimensional datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology; and [3] to help understand the evolution of languages, particularly creoles, by borrowing techniques from population genetics.
 
 <img width="300" alt="javier" src="/images/javier2.jpg">
 
