@@ -9,7 +9,7 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
 	<img src="/images/view.JPG">
-	<img src="/images/lab2.jpg">
+	<img src="/images/bench.JPG">
 </div>
 
 ---
