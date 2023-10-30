@@ -18,6 +18,8 @@ Email me at lbond [at] stanford [dot] edu.
 
 <img width="300" alt="larry" src="/images/larry.jpg">
 
+---
+
 ### Kaleda Denton | postdoc
 ##### [twitter](https://twitter.com/KaledaDenton) | [google scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
