@@ -8,10 +8,17 @@ featured_image: '/images/sf.jpg'
 <div class="gallery" data-columns="3">
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
-	<img src="/images/lab2.jpg">
 </div>
 
 ---
+
+## May Levin
+##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
+
+May Levin is an undergraduate at Stanford University studying Computer Science with a specialization in Biocomputation and AI.
+
+<img width="300" alt="kayla" src="/images/may.jpeg">
+
 
 ## Kaleda Denton
 ##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
