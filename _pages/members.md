@@ -71,11 +71,11 @@ Mike has also spent time in the tech industry in Silicon Valley in a series of s
 
 ---
 
-## Sven Kasser | visiting phd student
+### Sven Kasser | visiting phd student
 ##### [Google Scholar](https://scholar.google.com/citations?user=eeKmxkUAAAAJ&hl=en&oi=ao)
 
 ---
 
-## Joshua C. McDonald | visiting phd student
+### Joshua C. McDonald | visiting phd student
 
 ---
