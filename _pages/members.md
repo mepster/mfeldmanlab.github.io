@@ -58,3 +58,8 @@ Mike has also spent time in the tech industry in Silicon Valley in a series of s
 <img width="300" alt="mike" src="/images/mike.jpg">
 
 ---
+
+## Sven Kasser
+##### [Google Scholar](https://scholar.google.com/citations?user=eeKmxkUAAAAJ&hl=en&oi=ao)
+
+---
