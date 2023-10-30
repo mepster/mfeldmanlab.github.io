@@ -12,6 +12,8 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/lab2.jpg">
 </div>
 
+---
+
 ### Larry Bond | lab administrator
 
 Email me at lbond [at] stanford [dot] edu.
