@@ -10,6 +10,13 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/hoover.jpg">
 </div>
 
+## Kaleda Denton
+##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
+
+I am a postdoc in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
+
+<img width="300" alt="kayla" src="/images/kayla.jpg">
+
 ---
 
 ## May Levin
@@ -21,12 +28,12 @@ May Levin is an undergraduate at Stanford University studying Computer Science w
 
 ---
 
-## Kaleda Denton
+## May Levin
 ##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
-I am a second-year PhD student in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
+[]
 
-<img width="300" alt="kayla" src="/images/kayla.jpg">
+<img width="300" alt="kayla" src="/images/may.jpeg">
 
 ---
 
@@ -51,11 +58,5 @@ Mike is writing a book entitled _The Evolution of Evolvability: the Recursive Ma
 Mike has also spent time in the tech industry in Silicon Valley in a series of startup companies, and does some machine learning applied to genomics. 
 
 <img width="300" alt="mike" src="/images/mike.jpg">
-
----
-
-## Hao Shen
-
-<img width="300" alt="hao" src="/images/hao.JPG">
 
 ---
