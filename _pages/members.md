@@ -22,7 +22,7 @@ Email me at lbond [at] stanford [dot] edu.
 
 ---
 
-### May Levin | undergraduate research assistant
+### May Levin | research assistant
 ##### [personal website](https://maylevin.com)
 
 May Levin is an undergraduate at Stanford University studying Computer Science with a specialization in Biocomputation and AI.
