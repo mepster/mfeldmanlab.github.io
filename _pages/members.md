@@ -28,21 +28,21 @@ May Levin is an undergraduate at Stanford University studying Computer Science w
 
 ---
 
-## May Levin
-##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
+## Elisa Heinrich Mora
+##### [ResearchGate](https://www.researchgate.net/profile/Elisa-Mora-3)
 
-[]
+Elisa is a 1st year PhD Student in the Biology Department.
 
 <img width="300" alt="kayla" src="/images/may.jpeg">
 
 ---
 
 ## Javier Blanco Portillo
-##### [Twitter](https://twitter.com/JavierBioBlanco) | [Google Scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
+##### [Personal Website](https://javierbioblanco.github.io) | [Google Scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
-Javier graduated from the Undergraduate [Program in Genomic Sciences](https://twitter.com/lcgunam?lang=en) at UNAM in 2016, and from the [Integrative Biology Masters](https://langebio.cinvestav.mx/en/) program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](https://www.morenolab.org) to answer historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
+Javier is a 5th year PhD Candidate in the lab. He graduated from the Undergraduate [Program in Genomic Sciences](https://twitter.com/lcgunam?lang=en) at UNAM in 2016, and from the [Integrative Biology Masters](https://langebio.cinvestav.mx/en/) program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](https://www.morenolab.org) to answer historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
 
-As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex disease.
+As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex diseases.
 
 <img width="300" alt="javier" src="/images/javier.jpeg">
 
