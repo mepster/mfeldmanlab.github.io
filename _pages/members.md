@@ -50,7 +50,10 @@ Elisa is a 1st year PhD Student in the Biology Department.
 ### Javier Blanco Portillo | phd candidate
 ##### [personal website](https://javierbioblanco.github.io) | [google scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
-I'm a 5th year Biology PhD candidate working under the supervision of Prof. Marcus Feldman and Prof. Alexander Ioannidis. Funded by Stanford's Interdisciplinary Graduate Fellowship (SIGF), my current interests are [1] to incorporate our analysis of Polynesian settlement patterns into precision medicine strategies tailored to admixed minority populations who remain underrepresented in modern genomic databases; [2] to extend the study of gene-culture coevolution leveraging high-dimensional datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology; and [3] to help understand the evolution of languages, particularly creoles, by borrowing techniques from population genetics.
+<p> I'm a 5th year Biology PhD candidate working under the supervision of Prof. Marcus Feldman and <a href="https://ai-page.org">Prof. Alexander Ioannidis</a></b>. Funded by <b><a href="https://vpge.stanford.edu/fellowships-funding/sigf">Stanford's Interdisciplinary Graduate Fellowship (SIGF)</a>, my current interests are:</p>
+		<p> <span>&#8226;</span> To expand upon our historical analysis of Polynesian settlement patterns, incorporating these insights into precision medicine strategies tailored to admixed minority populations who remain underrepresented in modern genomic databases.</p>
+		<p> <span>&#8226;</span> To extend the study of gene-culture coevolution, leveraging datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology.</p>
+		<p> <span>&#8226;</span> To help understand the evolution of languages by borrowing techniques from population genetics.</p>
 
 <img width="300" alt="javier" src="/images/javier2.jpg">
 
