@@ -5,10 +5,11 @@ subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻�
 featured_image: '/images/sf.jpg'
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="4">
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
 	<img src="/images/view.JPG">
+	<img src="/images/lab2.jpg">
 </div>
 
 ## Larry Bond [lab administrator]
