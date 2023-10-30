@@ -1,7 +1,7 @@
 ---
 title: Current Lab Members
 description:
-subtitle: ✨🍁☭👨🏻‍💻☭🧑🏻‍💻☭👨🏻‍💻☭👩🏼‍💻☭👩🏼‍💻☭🧑🏻‍💻☭🍁✨
+subtitle: ✨🍁☭👨‍💻☭👨‍💻☭👨‍💻☭👩‍💻☭👩‍💻☭👨‍💻☭👨‍💻☭👨‍💻☭🍁✨
 featured_image: '/images/sf.jpg'
 ---
 
@@ -50,9 +50,10 @@ Elisa is a 1st year PhD Student in the Biology Department.
 ### Javier Blanco Portillo | phd candidate
 ##### [personal website](https://javierbioblanco.github.io) | [google scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
-Javier is a 5th year PhD Candidate in the lab. He graduated from the Undergraduate [Program in Genomic Sciences](https://twitter.com/lcgunam?lang=en) at UNAM in 2016, and from the [Integrative Biology Masters](https://langebio.cinvestav.mx/en/) program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](https://www.morenolab.org) to answer historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
-
-As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that can facilitate the integration of different levels of human diversity aiding in questions related to human evolution, genomic relationships among  populations, and complex diseases.
+I'm a Biology PhD candidate at Stanford University working under the supervision of Prof. Marcus Feldman and Prof. Alexander Ioannidis. Funded by Stanford's Interdisciplinary Graduate Fellowship (SIGF), my current interests are:
+• To expand upon our historical analysis of Polynesian settlement patterns (see below), incorporating these insights into precision medicine strategies tailored to admixed minority populations who remain underrepresented in modern genomic databases.
+• To extend the study of gene-culture coevolution (also known as dual inheritance theory), leveraging high-dimensional datasets across diverse disciplines to illuminate the dynamic relationships between genes, culture, and ecology.
+• To help understand the evolution of languages, particularly creoles, by borrowing techniques from population genetics.
 
 <img width="300" alt="javier" src="/images/IMG_1679.jpeg">
 
