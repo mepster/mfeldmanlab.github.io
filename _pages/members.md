@@ -33,8 +33,6 @@ May Levin is an undergraduate at Stanford University studying Computer Science w
 
 Elisa is a 1st year PhD Student in the Biology Department.
 
-<img width="300" alt="kayla" src="/images/may.jpeg">
-
 ---
 
 ## Javier Blanco Portillo
