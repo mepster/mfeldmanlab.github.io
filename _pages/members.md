@@ -21,7 +21,7 @@ I am a postdoc in the Feldman lab. My research focuses on the cultural evolution
 ---
 
 ## May Levin
-##### [Twitter](https://twitter.com/KaledaDenton) | [Google Scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
+##### [Personal Website](https://maylevin.com)
 
 May Levin is an undergraduate at Stanford University studying Computer Science with a specialization in Biocomputation and AI.
 
