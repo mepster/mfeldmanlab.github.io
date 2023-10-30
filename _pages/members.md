@@ -11,6 +11,14 @@ featured_image: '/images/sf.jpg'
 	<img src="/images/view.JPG">
 </div>
 
+## Larry Bond [lab administrator]
+
+Email me at lbond [at] stanford [dot] edu.
+
+<img width="300" alt="larry" src="/images/larry.jpg">
+
+
+
 ## Kaleda Denton (postdoc)
 ##### [twitter](https://twitter.com/KaledaDenton) | [google scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
@@ -64,6 +72,3 @@ Mike has also spent time in the tech industry in Silicon Valley in a series of s
 ##### [Google Scholar](https://scholar.google.com/citations?user=eeKmxkUAAAAJ&hl=en&oi=ao)
 
 ---
-
-## Larry Bond [lab administrator]
-##### lbond@stanford.edu
