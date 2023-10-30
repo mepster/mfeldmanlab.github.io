@@ -5,7 +5,10 @@ subtitle:
 featured_image:
 ---
 
-<img width="500" alt="hao" src="/images/hao.JPG">
+<div class="gallery" data-columns="2">
+	<img src="/images/hao.JPG">
+	<img src="/images/talia.jpeg">
+</div>
 
 |-------|-------|
 | Lee Altenberg| Tal Lavi |
