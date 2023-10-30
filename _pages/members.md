@@ -5,14 +5,13 @@ subtitle: 🌿👨🏻‍💻🌿👩🏼‍💻🌿👩🏼‍💻🌿🧑🏻�
 featured_image: '/images/sf.jpg'
 ---
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 	<img src="/images/sf.jpg">
 	<img src="/images/hoover.jpg">
 	<img src="/images/view.JPG">
-	<img src="/images/papuan.jpg">
 </div>
 
-## Kaleda Denton
+## Kaleda Denton (postdoc)
 ##### [twitter](https://twitter.com/KaledaDenton) | [google scholar](https://scholar.google.ca/citations?user=BycE1LoAAAAJ&hl=en)
 
 I am a postdoc in the Feldman lab. My research focuses on the cultural evolution of conformist and anti-conformist transmission, and gene-culture co-evolution of altruism. I received my Bachelor of Science in Ecology, Behavior and Evolution from UCLA in 2014. There, I researched foraging behaviors in ants, birdsong syntax, and human morality. I am supported by the Stanford Graduate Fellowship.
@@ -21,7 +20,7 @@ I am a postdoc in the Feldman lab. My research focuses on the cultural evolution
 
 ---
 
-## May Levin
+## May Levin (undergraduate researcher)
 ##### [personal website](https://maylevin.com)
 
 May Levin is an undergraduate at Stanford University studying Computer Science with a specialization in Biocomputation and AI.
@@ -30,14 +29,14 @@ May Levin is an undergraduate at Stanford University studying Computer Science w
 
 ---
 
-## Elisa Heinrich Mora
+## Elisa Heinrich Mora (phd student)
 ##### [researchgate](https://www.researchgate.net/profile/Elisa-Mora-3)
 
 Elisa is a 1st year PhD Student in the Biology Department.
 
 ---
 
-## Javier Blanco Portillo
+## Javier Blanco Portillo (phd candidate)
 ##### [personal website](https://javierbioblanco.github.io) | [google scholar](https://scholar.google.co.uk/citations?user=4bo4uK8AAAAJ&hl=en&oi=sra)
 
 Javier is a 5th year PhD Candidate in the lab. He graduated from the Undergraduate [Program in Genomic Sciences](https://twitter.com/lcgunam?lang=en) at UNAM in 2016, and from the [Integrative Biology Masters](https://langebio.cinvestav.mx/en/) program at LANGEBIO, Cinvestav in 2019. Here, he joined [Andrés Moreno's lab](https://www.morenolab.org) to answer historical questions with population genetics data from underrepresented populations, particularly from the Americas and the Pacific.
@@ -48,7 +47,7 @@ As a Biology PhD student at the Feldman Lab, Javier aims to develop tools that c
 
 ---
 
-## Michael E. Palmer, Ph.D.
+## Michael E. Palmer, Ph.D. (visiting scholar)
 ##### [google scholar](https://scholar.google.com/citations?user=dUMOr30AAAAJ&hl=en&oi=ao) | [twitter](https://twitter.com/meponymous) 
 
 Mike has a Ph.D. in Computer Science from the California Institute of Technology and a B.S. in Physics from Yale University.
@@ -61,7 +60,10 @@ Mike has also spent time in the tech industry in Silicon Valley in a series of s
 
 ---
 
-## Sven Kasser
+## Sven Kasser [visiting phd student]
 ##### [Google Scholar](https://scholar.google.com/citations?user=eeKmxkUAAAAJ&hl=en&oi=ao)
 
 ---
+
+## Larry Bond [lab administrator]
+##### lbond@stanford.edu

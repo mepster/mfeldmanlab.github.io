@@ -5,11 +5,6 @@ subtitle:
 featured_image:
 ---
 
-<div class="gallery" data-columns="2">
-	<img src="/images/hao.JPG">
-	<img src="/images/talia.jpeg">
-</div>
-
 |-------|-------|
 | Lee Altenberg| Tal Lavi |
 | Lauren Ancel Meyers | Laurent Lehmann |
